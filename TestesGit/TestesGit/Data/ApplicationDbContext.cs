@@ -14,6 +14,7 @@ namespace TestesGit.Data
             : base(options)
         {
         }
+        public DbSet<ProvPagamentoModel> Provisionamentos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

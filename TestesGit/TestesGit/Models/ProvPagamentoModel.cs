@@ -12,5 +12,6 @@ namespace TestesGit.Models
         public int Id { get; set; }
         public DateTime Data { get; set; }
         public decimal Valor { get; set; }
+        public string Issue1Com3 { get; set; }
     }
 }

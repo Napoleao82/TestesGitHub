@@ -13,5 +13,6 @@ namespace TestesGit.Models
         public DateTime Data { get; set; }
         public decimal Valor { get; set; }
         public string Issue2Com1 { get; set; }
+        public string Issue2Com2 { get; set; }
     }
 }

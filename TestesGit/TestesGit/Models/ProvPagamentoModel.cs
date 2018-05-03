@@ -14,5 +14,6 @@ namespace TestesGit.Models
         public decimal Valor { get; set; }
         public string Issue2Com1 { get; set; }
         public string Issue2Com2 { get; set; }
+        public string Issue2Com3 { get; set; }
     }
 }

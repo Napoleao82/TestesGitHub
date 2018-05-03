@@ -15,5 +15,6 @@ namespace TestesGit.Models
         public string Issue2Com1 { get; set; }
         public string Issue2Com2 { get; set; }
         public string Issue2Com3 { get; set; }
+        public string Issue2Com4 { get; set; }
     }
 }
